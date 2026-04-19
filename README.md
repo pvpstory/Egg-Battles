@@ -59,7 +59,7 @@ Easter-egg/
 - **Expo CLI** — installed globally or via `npx`
 - **iOS Simulator** (Xcode) or **Android Emulator** (Android Studio), or the **Expo Go** app on a physical device
 
-### Backend
+### Backend(no need for demonstration)
 
 1. Navigate to the backend directory:
    ```bash
